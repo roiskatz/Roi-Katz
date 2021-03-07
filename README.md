@@ -1,4 +1,4 @@
-# Roi-Katz
+<p align="center"> <b> Roi-Katz </b></p>
 Hi 👋, I am Roi
 
 💻 I’m currently a senior year in Information System and Software Engineer at BGU 
